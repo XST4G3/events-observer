@@ -1,0 +1,14 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Signatures"
+		{
+			"CGameEventManager::AddListener"
+			{
+				"library" "engine"
+				"windows" "\x55\x8B\xEC\x51\x57\x8B\x7D\x08\x89\x4D\xFC"
+			}
+		}
+	}
+}
